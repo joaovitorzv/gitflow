@@ -1,1 +1,1 @@
-alert('sorta alekinho')
+alert('digite seu cartão de credito caralhoi')
