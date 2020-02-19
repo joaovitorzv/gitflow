@@ -1,1 +1,1 @@
-alert('digite seu cartão de credito caralhoi')
+alert('digite seu cartão de credito caralho e o cvv tbm :)')
